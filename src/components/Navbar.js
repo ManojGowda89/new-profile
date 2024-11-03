@@ -110,6 +110,7 @@ function NavBar() {
                 target="_blank"
                 className="fork-btn-inner"
               >
+                Profile
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
