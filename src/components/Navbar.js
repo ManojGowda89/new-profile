@@ -104,16 +104,16 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            {/* <Nav.Item className="fork-btn">
+            <Nav.Item className="fork-btn">
               <Button
-                href="https://manojgowda.in/github"
+                href="https://manojgowda.in/"
                 target="_blank"
                 className="fork-btn-inner"
-              >Github
+              >
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
-            </Nav.Item> */}
+            </Nav.Item>
           </Nav>
         </Navbar.Collapse>
       </Container>
