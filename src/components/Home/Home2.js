@@ -19,12 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+       🤷‍♂️I fell in love with programming and am able to develop web applications like websites, Chrome extensions, Telegram bots, end-to-end domains, custom URLs, and custom emails for influencers and individuals. I am also able to deliver web hosting services
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in classics With
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple">  Javascript </b>
               </i>
               <br />
               <br />
@@ -67,7 +66,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://manojgowda.in/github"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +74,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
@@ -84,10 +83,10 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://manojgowda.in/linkedin"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://manojgowda.onrender.com/instagram"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
