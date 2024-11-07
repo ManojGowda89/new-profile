@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Manoj Gowda </span>
             from <span className="purple"> Tumkuru, India.</span>
             <br />
-            I am  a software developer Skilled In Web Development.
+            I am  a software developer Skilled In Web Development And SEO & Google Ranking Expert
             <br />
             I have completed Computer Science from AMC Engeneering College
             <br />

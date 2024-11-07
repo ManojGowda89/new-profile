@@ -9,7 +9,7 @@ function Type() {
           "Software Developer",
           "Freelancer",
           "MERN Stack Developer",
-          "",
+          "SEO & Google Ranking Expert",
         ],
         autoStart: true,
         loop: true,
