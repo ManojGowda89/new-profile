@@ -40,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
           {/* <img  className="img-fluid logo" alt="brand" /> */}
-          Manoj Gowda  
+          Manoj Gowda
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -73,7 +73,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 target="_blank"
-                   rel="noreferrer"
+                rel="noreferrer"
                 href="https://manojgowda.in/github"
               >
                 <AiOutlineFundProjectionScreen
@@ -85,12 +85,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                 target="_blank"
-                   rel="noreferrer"
-                href="https://manojgowda.in/resume"
-              
+                href="mailto:mail@manojgowda.in"
+                // target="_blank"
+                rel="noreferrer"
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Mail Me
               </Nav.Link>
             </Nav.Item>
 
